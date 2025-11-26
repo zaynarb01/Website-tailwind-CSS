@@ -14,9 +14,9 @@
   img {
     @apply rounded h-full object-cover;
   }
-  button{
-    @apply bg-green-500 text-center text-lg bg-green-700 text-white font-bold py-2 p-x-6 rounded;
-  }
+  /* button{ */
+    /* @apply bg-green-500 text-center text-lg bg-green-700 text-white font-bold py-2 p-x-6 rounded; */
+  /* } */
 }
 
 @layer components {
